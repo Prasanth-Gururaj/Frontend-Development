@@ -1,0 +1,71 @@
+
+
+<html>
+<head>
+<body>
+<title>Login-Shopcart</title>
+<style>
+body {
+ background-size:100%100%;
+}
+h1 {
+text-align: center;
+}
+.button{
+ background-color:#4CAF50;
+
+}
+.content {
+  background-color: hsla(0, 100%, 90%, 0.3);
+  padding: 100px;
+  height: 300px;
+  text-align: left;
+  width:500px;
+
+  background-position: center;
+
+}
+
+label {
+        display: inline-block;
+        width: 200px;
+        text-align: left;
+      }
+ 
+</style>
+</head>
+
+<body background="E:\SREC_FILES\sem5-html\e-commerce\login.jpg"width="100">
+</body>
+
+<hr>
+<a href="E:\SREC_FILES\sem5-html\e-commerce\shopcart.html" target="_blank">Home</a>&nbsp;&nbsp;&nbsp;
+
+<form action="/action_page.php">
+
+<div class="content">
+<hr>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <fieldset>
+    <legend>LOG-IN</legend> 
+<label for="fname"><b>USERNAME:</label>
+  <input type="text" id="fname" name="Firstname" required><br><br>
+  <label for="fname"><b>PASSWORD:</label> <input type="password" placeholder="Password" id="pwd" minlength="8"  required><br><br>
+ <label for="pwd">CONFIRM PASSWORD:</label>
+   <input type="password" placeholder="Confirm Password" id="confirm_password" required><br><br>
+  <label for="qn"><b>SECURITY QUESTION</label><br><br>
+  
+  <label for="cars">What's your favorite color? </label>
+  <select name="QN" id="QN">
+    <option value="volvo">Red</option>
+    <option value="saab">Violet</option>
+    <option value="opel">Black</option>
+    <option value="audi">Peach</option>
+  </select>
+   <br><br><hr>
+  <button class="button">SUBMIT</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;     
+ <button class="button">CANCEL</button><br><br><br>
+ </fieldset>
+</form> 
+</div>
+</html>
