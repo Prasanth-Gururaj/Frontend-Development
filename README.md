@@ -6,6 +6,7 @@
 
 #THE FOLDER SCREENSHOT CONTAINS THE FRONT END OF THE WEBPAGE DEVELOPED!!
 
+
 HOME SCREEN:
 ![home 1](https://user-images.githubusercontent.com/72685294/135746857-c8258c40-408a-4524-915b-8a4f98ca0bae.png)
 ![home 2](https://user-images.githubusercontent.com/72685294/135746865-00c65d9a-383f-4435-a591-3d25bf6a7e90.png)
@@ -17,7 +18,7 @@ SIGN-IN:
 ![sign-in](https://user-images.githubusercontent.com/72685294/135746955-ec9b8097-9613-441a-a4c8-9b21a5c4d18c.png)
 
 ACCOUNT:
-![account](https://user-images.githubusercontent.com/72685294/135746974-5b6ef98b-32a8-4777-a57a-666c70f5c83b.png)
+![account](https://user-images.githubusercontent.com/72685294/135747164-7d856f2e-4c3e-43f2-80ca-2b2918355276.jpg)
 
 CHAT:
 ![chat](https://user-images.githubusercontent.com/72685294/135747008-522ffbb1-920b-4af2-8c0d-8bf42f53b8c2.png)
